@@ -14,5 +14,5 @@ email.value;
 message.value;
 
 button.addEventListener('click', () => {
-    result.innerHTML = `${firstName.value} ${lastName.value} is my name and my email is ${email.value} and my message is ${message.value}`;
-})
+    result.innerHTML = `${firstName.value} ${lastName.value} is my government name and my email is ${email.value} and my message is ${message.value}`;
+});
